@@ -1,0 +1,27 @@
+.title h1{
+  color: #ff4500;
+}
+.navbar-light .navbar-brand{
+  color: #ff4500;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link,.social-icon.text-center a i:hover {
+  color: #ff4500;
+}
+.about-img img,.social-icon.text-center a i:hover,.line,.downladcv a:hover,.screen,.prices-box a.btn:hover,.carousel .item .img-box,button.myformbtn:hover,.Team_social_icon.text-center a i:hover,.Team_box_images img,.google-map.m-2 iframe,input.form-control.mt-3.myformdesing,textarea.form-control.myformdesing{
+  border-color: #ff4500;
+}
+span.text, span.typed-cursor,.social-icon.text-center a i:hover,.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover,span.my_title_name,.downladcv a:hover,span.count,span.plus,.prices-box a.btn:hover,a.nav-link.ml-5:hover,span.contact-box-icon,button.myformbtn:hover,a.copyrighttitle,.Team_social_icon.text-center a i:hover,.service-card i{
+  color: #ff4500;
+}
+.social-icon.text-center a i,.line::after,.downladcv a,#codeconHTML,#codeconCSS,#codeconjQuery,#codeconJS,#codeconXML,#codeconC,#codeconJAVA,#codeconPHP,.icon-box,.prices-box-icon,.prices-box a.btn,button.myformbtn,#myBtn,.Team_social_icon.text-center a i,.service-card::after,.icon::before,.icon::after,.work-box-title small,.faqitem .header,.overlay .texts{
+  background: #ff4500;
+}
+._94vf .welcomePageModalSheetContent ._909c ._909d {
+    background: #ff4500 !important;
+}
+.carousel-indicators li.active{
+  background: #ff4500 !important;
+}
+span.animation_span:nth-child(0),span.animation_span:nth-child(1),span.animation_span:nth-child(2),span.animation_span:nth-child(3),span.animation_span:nth-child(4),span.animation_span:nth-child(5),span.animation_span:nth-child(6),span.animation_span:nth-child(7),span.animation_span:nth-child(8),span.animation_span:nth-child(9),span.animation_span:nth-child(10),span.animation_span:nth-child(11),span.animation_span:nth-child(12),span.animation_span:nth-child(13),span.animation_span:nth-child(14),span.animation_span:nth-child(15),span.animation_span:nth-child(16),span.animation_span:nth-child(17),span.animation_span:nth-child(18),span.animation_span:nth-child(19),span.animation_span:nth-child(20),span.animation_span:nth-child(21),span.animation_span:nth-child(22),span.animation_span:nth-child(23),span.animation_span:nth-child(24),span.animation_span:nth-child(25),span.animation_span:nth-child(26),span.animation_span:nth-child(27),span.animation_span:nth-child(28),span.animation_span:nth-child(29),span.animation_span:nth-child(30),span.animation_span:nth-child(31),span.animation_span:nth-child(32),span.animation_span:nth-child(33),span.animation_span:nth-child(34),span.animation_span:nth-child(35),span.animation_span:nth-child(36),span.animation_span:nth-child(37),span.animation_span:nth-child(38),span.animation_span:nth-child(39),span.animation_span:nth-child(40),span.animation_span:nth-child(41),span.animation_span:nth-child(42),span.animation_span:nth-child(43),span.animation_span:nth-child(44),span.animation_span:nth-child(45),span.animation_span:nth-child(46),span.animation_span:nth-child(47),span.animation_span:nth-child(48),span.animation_span:nth-child(49),span.animation_span{
+  color: #ff4500 !important;
+}
